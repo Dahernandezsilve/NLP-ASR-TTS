@@ -1,3 +1,6 @@
+# Special folders to ignore
+tmp_whisper_eval/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
